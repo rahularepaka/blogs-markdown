@@ -1,6 +1,6 @@
 # **Bots behind Engima Instagram Page**
 
-Handling instagram pages on daily basis is **quite tiring** for getting the information, editing the post and uploading them on the instagram page 😪.
+Handling instagram pages on daily basis is **quite tiring** for getting the information, editing the post and uploading them on the instagram page.
 
 To handle this process of handling instagram page, we decided to **automate this entire process** which includes the following:
 
