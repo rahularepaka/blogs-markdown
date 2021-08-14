@@ -1,16 +1,15 @@
 # **Bots behind Engima Instagram Page**
 
-Handling instagram pages on daily basis is **quite tiring** for getting the information, editing the post and uploading them on the instagram page.
+Handling Instagram pages every day is **quite tiring** for getting the information, editing the post, and uploading them on the Instagram page.
 
-To handle this process of handling instagram page, we decided to **automate this entire process** which includes the following:
+To handle this process, we decided to **automate this entire process** which includes the following:
+- Editing the post on Photoshop
+- Exporting to the desired format
+- Uploading them on Bulk Instagram post dump tools
 
- - Editing the post on Photoshop
- - Exporting the post to the desired format
- - Uploading them on Bulk instagram post dump tools 
+Initially, we planned on doing the **manual way** of posting content on Instagram to understand the process before automating it using bots and code.
 
-Intially, we planned on doing it the **manually way** of posting content on instagram to understand the process before automating it using bots and code.
-
-After a complete understanding of the process which led us to make **templates for the content** for each day as well as **collect the data in a excel document** in our shared cloud folder such as Onedrive and Google Drive.
+We made **templates** for the content for each day and also **collect the data** in an excel document in our shared cloud folders such as Onedrive.
 
 These we are our *content planned for the week*:
 
